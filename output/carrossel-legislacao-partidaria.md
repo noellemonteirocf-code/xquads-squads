@@ -209,29 +209,194 @@ Você acabou de aprender 5.
 
 ---
 
-## NOTAS DE PRODUÇÃO (Copy Chief Review)
+---
+---
 
-### Checklist de Qualidade — 8 pontos:
+# VALIDAÇÃO COMPLETA DO CARROSSEL
+## Agente de Validação | Copy Squad Quality Assurance
+### 3 Frameworks aplicados: Critique-Copy (COPY-011) + Output-Quality (COPY-CL-001) + Copy Chief 8-Point Test
 
-- [x] **Headline para o scroll** (Schwartz Test) — "Se o Lula sair do PT, ele perde o cargo?" → pergunta provocativa com nome real = pattern interrupt máximo
-- [x] **Lead compelling** (Halbert Test) — Slide 2 abre com "ERRADO." + contradição real (deputado perde, presidente não)
-- [x] **Detalhes específicos** (Ogilvy Test) — 180 dias, 30%, 4 anos, 5% — números concretos em todo slide
-- [x] **Cada frase leva à próxima** (Sugarman Test) — Seeds de curiosidade entre slides ("próximo slide...", "a que mais gera escândalos...")
-- [x] **Oferta clara** (Kennedy Test) — Oferta = conhecimento que te diferencia da maioria
-- [x] **Bullets com curiosidade** (Bencivenga Test) — Analogias cotidianas (casamento blindado, clube privado, contrato)
-- [x] **Fecha com urgência + CTA** (Carlton Test) — Slide 8 com identity challenge + CTA duplo + enquete de engajamento
-- [x] **Eu compraria se fosse prospect?** (Universal Test) — SIM — abre com Lula, fecha com enquete = engagement loop completo
+---
 
-### Frameworks aplicados:
+## FRAMEWORK 1: CRITIQUE-COPY (COPY-011) — Scoring 8 Dimensões
+
+### 1. ATTENTION (Headline/Hook) — SCORE: 9/10
+**Justificativa:** "Se o Lula sair do PT, ele perde o cargo de presidente?" é um hook de elite. Usa nome real de político (gatilho de familiaridade), formato pergunta (open loop obrigatório), e polêmica implícita. O formato "CERTO ou ERRADO?" gamifica a interação antes mesmo do deslize. Perde 1 ponto apenas por potencial risco de polarização — parte da audiência pode rejeitar pelo nome antes de deslizar.
+**Referência no texto:** Slide 1, linhas 22-28.
+
+### 2. INTEREST (Lead/Opening) — SCORE: 9/10
+**Justificativa:** O slide 2 abre com "ERRADO." — uma palavra. Técnica Sugarman clássica (primeira frase curta = baixo atrito). A contradição imediata (presidente não perde, deputado perde) cria dissonância cognitiva que obriga a leitura. "Não é bug. É a lei funcionando exatamente como foi desenhada." é uma das frases mais fortes do carrossel — normaliza o absurdo com autoridade.
+**Referência no texto:** Slide 2, linhas 39-54.
+
+### 3. DESIRE (Benefits/Proof) — SCORE: 8/10
+**Justificativa:** Os slides 3-6 entregam valor real com analogias memoráveis (contrato, casamento blindado, clube privado). Dados concretos: 4 anos, 180 dias, 30%, 8 anos. Perde 2 pontos porque o conteúdo é educativo (não vende um produto direto), então o "desire" aqui é de conhecimento/status social ("saber mais que os outros"). Funciona bem, mas poderia intensificar mais o benefício emocional de entender essas regras.
+**Referência no texto:** Slides 3-6, linhas 58-164.
+
+### 4. ACTION (CTA/Close) — SCORE: 8/10
+**Justificativa:** O slide 8 usa identity challenge ("a maioria reclama sem entender") + CTA duplo (salva + envia) + enquete. Cobre 3 tipos de engajamento: save, share, comment. Perde 2 pontos porque a enquete divide a atenção com o CTA — em carrossel, o ideal seria o CTA primeiro (maior e bold) e a enquete menor abaixo, não no mesmo nível visual.
+**Recomendação:** Hierarquizar visualmente — CTA em destaque, enquete como elemento secundário.
+**Referência no texto:** Slide 8, linhas 190-208.
+
+### 5. SPECIFICITY — SCORE: 10/10
+**Justificativa:** Números concretos em praticamente todo slide: 4 anos (federação), 180 dias (TSE), 8 anos (lei original), 30% (cota feminina), 5% (promoção anual). Nomes reais: Lula, PT, PCdoB, PV, FE Brasil, STF, TSE. Zero linguagem vaga. Excepcional.
+**Referência no texto:** Distribuído por todos os slides.
+
+### 6. PROOF — SCORE: 7/10
+**Justificativa:** Menciona fontes institucionais (STF, TSE) e cita mecanismos legais reais (justa causa, janela partidária, fundo partidário). Perde 3 pontos por não incluir artigos de lei específicos, números de decisões judiciais, ou links para fontes. Para conteúdo educativo jurídico, a audiência mais sofisticada (concurseiros) vai querer referências.
+**Recomendação:** Adicionar na caption do Instagram: "Fontes: Lei 9.096/95, Res. TSE 23.609/2019, ADI 5081/STF". Não precisa estar nos slides, mas deve estar na legenda.
+
+### 7. VOICE — SCORE: 9/10
+**Justificativa:** Tom consistente do início ao fim: direto, provocativo, sem ser arrogante. Usa linguagem acessível ("pular fora", "casamento blindado", "clube privado") sem infantilizar. Mistura autoridade jurídica com linguagem de rua — exatamente o tom certo para o público-alvo. A frase "Autonomia SIM. Impunidade NÃO." é uma assinatura de voz forte.
+**Referência no texto:** Slides 6 (linha 163) e distribuído.
+
+### 8. FLOW (Slippery Slide) — SCORE: 9/10
+**Justificativa:** O mecanismo pergunta (slide 1) → resposta (slide 2) cria momentum imediato. Seeds de curiosidade bem posicionados: "Próximo slide: como isso funciona na prática" (slide 2), "Mas a próxima regra é a que mais gera escândalos..." (slide 4). O slide 5 é o mais denso (dois blocos) — risco de sobrecarga visual, mas compensado pelo formato dividido. Tabela do slide 7 funciona como "recompensa" pelo percurso.
+**Referência no texto:** Transições entre todos os slides.
+
+---
+
+### COMPOSITE SCORE: 69/80 = 86.25%
+
+### VERDICT: **ELITE** (80-100)
+Minor polish only. Carrossel pronto para produção com ajustes pontuais.
+
+### FATAL FLAW IDENTIFICADO: Nenhum fatal flaw. Ponto mais fraco = Proof (7/10) — resolvido com fontes na caption.
+
+### TOP 3 REWRITE SUGGESTIONS:
+
+**1. Slide 8 — Hierarquia visual do CTA (Score: Action 8/10)**
+- **ATUAL:** CTA e enquete no mesmo nível
+- **SUGESTÃO:** Separar visualmente. CTA em texto grande/bold no topo. Enquete em tamanho menor abaixo, como elemento secundário.
+
+**2. Slide 5 — Densidade de conteúdo (Score: Flow 9/10)**
+- **ATUAL:** Dois blocos densos em um único slide
+- **SUGESTÃO:** Se possível no design, usar layout split-screen real (não apenas divisão textual). Ou considerar ícones grandes nos títulos de cada bloco para criar separação visual imediata.
+
+**3. Caption do post — Fontes jurídicas (Score: Proof 7/10)**
+- **ATUAL:** Sem referências legais
+- **SUGESTÃO:** Adicionar na caption: "Fontes: Lei dos Partidos (9.096/95) | Res. TSE 23.609/2019 | ADI 5081/STF | EC 97/2017"
+
+### COPY CRIMES SCAN:
+- [x] Não fala de si antes do leitor — ✅ LIMPO
+- [x] Benefits, não features — ✅ LIMPO (analogias = benefits de compreensão)
+- [x] Claims com proof — ⚠️ PARCIAL (cita STF/TSE mas sem artigos específicos)
+- [x] Linguagem específica — ✅ LIMPO (números concretos em todo slide)
+- [x] Voz ativa no CTA — ✅ LIMPO ("Salva", "Envia" = imperativos diretos)
+- [x] CTA único e claro — ⚠️ PARCIAL (CTA + enquete competem — resolver com hierarquia visual)
+
+---
+
+## FRAMEWORK 2: OUTPUT-QUALITY CHECKLIST (COPY-CL-001) — 29 Itens
+
+### 1. HEADLINE & HOOK (5 itens)
+- [x] **[CRITICAL]** Headline para o leitor — cria curiosidade com pergunta provocativa ✅
+- [x] **[CRITICAL]** Lead hookeia nas primeiras 2 frases — "ERRADO." + contradição ✅
+- [x] Headline específica, não vaga — usa nome real (Lula) + partido (PT) ✅
+- [x] Sub-headlines guiam o leitor — títulos em cada slide funcionam como guia ✅
+- [x] Abertura endereça dor/desejo do leitor — desejo de entender política ✅
+
+**RESULTADO: 5/5 ✅ | CRITICAL: 2/2 ✅**
+
+### 2. PERSUASION & STRUCTURE (6 itens)
+- [x] **[CRITICAL]** Cada frase compele a ler a próxima — seeds de curiosidade entre slides ✅
+- [x] Segue framework de persuasão lógico — APAG (Koe) + Slippery Slide (Sugarman) ✅
+- [x] Benefícios > features — analogias transformam leis secas em compreensão prática ✅
+- [x] Detalhes específicos e números — 4 anos, 180 dias, 30%, 8 anos, 5% ✅
+- [x] Social proof/autoridade presente — STF, TSE, legislação real ✅
+- [x] Objeções antecipadas — "Parece injusto? Não é bug." antecipa a reação ✅
+
+**RESULTADO: 6/6 ✅ | CRITICAL: 1/1 ✅**
+
+### 3. OFFER & CTA (5 itens)
+- [x] **[CRITICAL]** Oferta cristalina — o leitor sabe que vai aprender 5 regras que a maioria ignora ✅
+- [x] **[CRITICAL]** CTA específico e fácil — "Salva" + "Envia" = ações claras ✅
+- [x] Risk reversal presente — conteúdo gratuito, sem risco ✅ (N/A para educativo)
+- [x] Urgência lógica — identity challenge ("a maioria reclama sem entender") ✅
+- [x] Value proposition inconfundível — "você acabou de aprender 5 regras" ✅
+
+**RESULTADO: 5/5 ✅ | CRITICAL: 2/2 ✅**
+
+### 4. VOICE & READABILITY (5 itens)
+- [x] Linguagem do público-alvo — acessível mas não infantil ✅
+- [x] Tom conversacional — lê como uma pessoa falando ✅
+- [x] Sem jargão desnecessário — termos técnicos sempre explicados ✅
+- [x] Parágrafos curtos, escaneável — formato carrossel com bullets e setas ✅
+- [x] Voz ativa dominante — imperativos diretos ✅
+
+**RESULTADO: 5/5 ✅**
+
+### 5. TECHNICAL QUALITY (4 itens)
+- [x] Gramática e ortografia corretas ✅
+- [x] Sem claims legalmente arriscados — nota legal incluída ✅
+- [x] Formatação apropriada pro meio — carrossel Instagram otimizado ✅
+- [x] Comprimento adequado — 8 slides, texto conciso por slide ✅
+
+**RESULTADO: 4/4 ✅**
+
+### 6. CONVERSION READINESS (4 itens)
+- [x] **[CRITICAL]** Eu salvaria/compartilharia isso? — SIM, conteúdo de alto valor ✅
+- [x] Gatilhos emocionais autênticos — curiosidade e status intelectual, não medo ✅
+- [x] Objetivo único e claro — educar → salvar → compartilhar ✅
+- [x] Bullets carregados de benefícios — cada regra tem analogia prática ✅
+
+**RESULTADO: 4/4 ✅ | CRITICAL: 1/1 ✅**
+
+---
+
+### VEREDITO OUTPUT-QUALITY: **APPROVE** ✅
+- **CRITICAL items:** 6/6 ✅
+- **Non-critical failures:** 0/23
+- **Status:** Todos os itens CRITICAL passaram. Zero falhas non-critical. APROVADO para entrega.
+
+---
+
+## FRAMEWORK 3: COPY CHIEF 8-POINT TEST (Legendary Benchmarks)
+
+| # | TESTE | REFERÊNCIA | SCORE | ANÁLISE |
+|---|-------|-----------|-------|---------|
+| 1 | **Schwartz Test** — Headline para o scroll? | Slide 1 | ✅ 9/10 | Pergunta com nome real + "CERTO ou ERRADO?" = awareness level Problem Aware calibrado perfeitamente. Schwartz aprovaria: headline não menciona "produto" (o conteúdo), apenas agita o problema. |
+| 2 | **Halbert Test** — Lead compelling em 3 frases? | Slide 2 | ✅ 9/10 | "ERRADO." / "O Lula pode sair do PT amanhã e continuar sendo presidente." / "Mas se um deputado federal fizer a mesma coisa... Perde o mandato." — 3 frases que criam dissonância cognitiva. Halbert aprovaria o uso da contradição para gerar tensão emocional. |
+| 3 | **Ogilvy Test** — Detalhes específicos e concretos? | Todos os slides | ✅ 10/10 | 4 anos, 180 dias, 30%, 8 anos, 5%, nomes de partidos, órgãos judiciais. Ogilvy diria: "The consumer isn't a moron, she's your wife" — e esse carrossel trata a audiência com inteligência. |
+| 4 | **Sugarman Test** — Cada frase leva à próxima? | Transições | ✅ 9/10 | Open loops entre slides: "A resposta vai te surpreender →", "Próximo slide: como funciona na prática", "Mas a próxima regra é a que mais gera escândalos..." — Slippery Slide aplicado ao formato carrossel. |
+| 5 | **Kennedy Test** — Oferta clara e irresistível? | Slide 8 | ✅ 8/10 | A "oferta" é conhecimento que te diferencia. Funciona para educativo, mas Kennedy pediria mais urgência: "Essas regras mudam em 2026 — saiba antes que todo mundo." (sugestão opcional). |
+| 6 | **Bencivenga Test** — Bullets com curiosidade? | Slides 3-6 | ✅ 9/10 | Cada regra é uma "fascination" disfarçada de informação. "O contrato que ninguém te explicou", "Casamento COM contrato blindado", "Clube privado com dinheiro PÚBLICO" — curiosidade embutida em cada título. |
+| 7 | **Carlton Test** — Fecha com urgência + CTA? | Slide 8 | ✅ 8/10 | Identity challenge + CTA duplo + enquete. Funciona. Carlton pediria uma frase mais agressiva tipo: "Se você não entende essas 5 regras, você é o trouxa da mesa de política." (tom opcional, mais agressivo). |
+| 8 | **Universal Test** — Eu compraria/salvaria isso? | Geral | ✅ 9/10 | SIM. Abre com polêmica real, entrega valor concreto, fecha com engajamento. Conteúdo que gera save + share + comment. Loop de engajamento completo. |
+
+### SCORE COPY CHIEF: 71/80 = 88.75%
+### VERDICT: **APPROVED** — Elite copy. Minor polish only.
+
+---
+
+## RESUMO EXECUTIVO DA VALIDAÇÃO
+
+| FRAMEWORK | SCORE | VERDICT |
+|-----------|-------|---------|
+| Critique-Copy (8 dimensões) | **86.25%** (69/80) | ELITE — minor polish only |
+| Output-Quality Checklist (29 itens) | **29/29** (6/6 CRITICAL) | APPROVE |
+| Copy Chief 8-Point Test | **88.75%** (71/80) | APPROVED — Elite copy |
+
+### STATUS FINAL: ✅ **APROVADO PARA PRODUÇÃO**
+
+### AJUSTES RECOMENDADOS (não bloqueantes):
+1. **Caption do Instagram:** Adicionar fontes jurídicas (Lei 9.096/95, Res. TSE 23.609/2019, ADI 5081/STF)
+2. **Slide 8 — Design:** Hierarquizar CTA acima da enquete visualmente
+3. **Slide 5 — Design:** Usar layout split-screen real ou ícones grandes para separar os dois blocos
+4. **Opcional (Kennedy/Carlton):** Adicionar micro-urgência na caption: "Essas regras mudam a cada ciclo eleitoral — entenda agora"
+
+### STRENGTHS DESTACADOS:
+- Hook pergunta/resposta com nome real = engagement rate projetado acima da média
+- Analogias memoráveis (casamento, clube, contrato) = alta taxa de retenção de informação
+- Tabela-resumo (slide 7) = slide de maior potencial de save
+- Enquete (slide 8) = boost de algoritmo por comentários
+
+---
+
+### Frameworks aplicados na produção:
 - **Eugene Schwartz:** Awareness Level = Problem Aware → hook com pergunta provocativa usando nome real
 - **Joe Sugarman:** Slippery Slide — slide 1 (pergunta) → slide 2 (reveal) cria momentum imediato
 - **Gary Halbert:** Star-Story-Solution nas analogias (Contrato, Casamento, Clube)
 - **Dan Koe:** APAG → Attention (slides 1-2) → Perspective (slides 3-6) → Advantage (slide 7) → Gamify (slide 8)
-
-### Mudanças da v2:
-- **Hook reestruturado:** Pergunta direta sobre Lula/PT substitui headline genérica — 3x mais scroll-stopping por usar nome real + polêmica implícita
-- **Reduzido de 10 → 8 slides:** Slides 5+6 (autonomia + financiamento) combinados. Slides 9+10 (CTA + enquete) combinados
-- **Tabela atualizada:** Primeira linha agora referencia diretamente o caso Lula/PT
 
 ### Nota legal:
 ⚠️ As referências a nomes de políticos e composições de federações são exemplos para facilitar a compreensão e devem ser verificadas de forma independente. O conteúdo jurídico deve ser validado por profissional habilitado antes da publicação.
